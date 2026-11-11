@@ -56,4 +56,7 @@ IB/BooleanSearch/txt-files/
 IB/BooleanSearch/*.txt
 IB/BooleanSearch/catalogo_gutenberg.csv
 txt-files/
+epub/
+
+
 
